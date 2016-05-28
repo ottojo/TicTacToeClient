@@ -1,9 +1,0 @@
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\bin\Release\TicTacToe.exe.config
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\bin\Release\TicTacToe.exe
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\bin\Release\TicTacToe.pdb
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\obj\Release\TicTacToe.Form1.resources
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\obj\Release\TicTacToe.IpChooserDialog.resources
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\obj\Release\TicTacToe.Properties.Resources.resources
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\obj\Release\TicTacToeClient.csproj.GenerateResource.Cache
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\obj\Release\TicTacToe.exe
-C:\Users\Jonas Otto\Documents\TicTacToeClient\TicTacToeClient\obj\Release\TicTacToe.pdb
